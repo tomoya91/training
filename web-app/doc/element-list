@@ -1,0 +1,5 @@
+com.example.web
+com.example.web.controller
+com.example.web.entity
+com.example.web.repository
+com.example.web.service
